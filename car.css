@@ -1,0 +1,48 @@
+      form{
+                  border: 2px solid grey;
+                  margin-top: 20px;
+                  margin-bottom: 20px;
+                  margin-right: 150px;
+                  margin-left: 150px;
+                  padding: 10px 10px;
+                  text-align: left;
+                }
+            
+            h1{
+                font-family: fantasy;
+                color: aliceblue;
+                padding: 10px 10px;
+                text-align-last: center;
+                border: 2px solid grey;
+                margin-right: 150px;
+                margin-left: 150px;
+                  margin-top: 10px;
+                }
+            
+            h2{
+               border: 2px solid grey; 
+               margin-right: 150px;
+                margin-left: 150px;
+                  margin-top: 10px;  
+                 }
+            
+            h3{
+                color: red;
+                font-family: fantasy;
+                
+                
+            }
+            
+            h5{
+                
+                color: white;
+                
+            }
+            body{
+                
+                background: url(images/thumb.jpg);
+                background-size: 100%;
+              
+            }
+              
+             
